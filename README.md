@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MarcelN20
 - 👀 I’m interested in Life Sciences, Sports and Food
-- 🌱 I’m currently learning C and Java
+- 🌱 I’m currently learning Java and Python
 - 💞️ I’m looking to collaborate on nothing in particular
 - 📫 How to reach me: marcel.nhan@outlook.com
 
